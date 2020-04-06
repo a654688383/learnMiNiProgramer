@@ -1,3 +1,6 @@
 <!--pages/home/home.wxml-->
 <text class='red_style'>helloworld</text>
 <button size='mini'>按钮</button>
+
+<!--testtag2-->
+<text class='red_style'>testtag2</text>
